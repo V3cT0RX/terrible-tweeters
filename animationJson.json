@@ -3,7 +3,7 @@
     {
       "name": "move",
       "property": "position",
-      "framePerSecond": 60,
+      "framePerSecond": 10,
       "dataType": 1,
       "loopBehavior": 1,
       "blendingSpeed": 0.01,
